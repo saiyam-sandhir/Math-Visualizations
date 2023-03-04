@@ -9,3 +9,5 @@ When you look at the resulting spiral, patterns begin to emerge. For example, yo
 The Ulam Spiral is not only a visually striking way to represent prime numbers, but it also provides a way to study their distribution and patterns. In fact, it has been used in mathematical research to help identify certain types of prime number distributions.
 
 In this repository, you will find a script that generates an Ulam Spiral, allowing you to explore this fascinating mathematical concept on your own. Have fun exploring the patterns and structures that emerge as you visualize prime numbers in a whole new way.
+
+<p align="center"><image src="https://user-images.githubusercontent.com/86138251/222904149-f0b49acd-d1fe-46ea-90d5-dea5aabc080f.jpg" alt="Ulam Sprial Image"></p>
