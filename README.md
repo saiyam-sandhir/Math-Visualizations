@@ -12,7 +12,7 @@ Whether you are a seasoned mathematician or simply someone who appreciates the b
 
 ## Projects & Ideas
 
-- <a href="">The Ulam Spiral: Visulaizing Prime Numbers</a>
+- <a href="https://github.com/saiyam-sandhir/Math-Visualizations/edit/main/README.md">The Ulam Spiral: Visulaizing Prime Numbers</a>
 
 
 
